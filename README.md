@@ -1,2 +1,1 @@
-Test
-[Plot](https://niananny.github.io/LorenzAttractor/Lorenz_Attractor.html)
+[Plot](https://niananny.github.io/LorenzAttractor/Lorenz_Attractor)
