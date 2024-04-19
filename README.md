@@ -1,1 +1,1 @@
-[Plot](https://niananny.github.io/LorenzAttractor/Lorenz_Attractor)
+[Plot](https://niananny.github.io/LorenzAttractor/lorenz_attractor_plotly.html)
